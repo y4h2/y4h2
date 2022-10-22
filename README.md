@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y4h2)
  -->
 
-### My recent blog
+### My English Blog
 
 - [MySQL Read/Write Splitting](https://www.yuque.com/y4h2/write/necaa7)
 - [Understand CAP Theorem From Engineering Perspective](https://www.yuque.com/y4h2/write/oi08nm)
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - [Golang: Customize HTTP Handler](https://www.yuque.com/y4h2/write/nxth4y)
 
 
-### Chinese Blog
+### My Chinese Blog
 - [Golang命令行工具实践](https://github.com/y4h2/personal-notes/wiki/Golang%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7%E5%AE%9E%E8%B7%B5)
 - [Raft](https://github.com/y4h2/personal-notes/wiki/Raft)
 - [in-DB Queue](https://github.com/y4h2/personal-notes/wiki/In-DB-Queue)
