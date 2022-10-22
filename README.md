@@ -3,7 +3,8 @@
 
 ### Hi there 👋
 
-Full stack developer
+Senior Software Engineer | DevOps
+
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=y4h2)
@@ -24,7 +25,6 @@ Here are some ideas to get you started:
 -->
 - 🚀 I use daily:
   ![Go](https://img.shields.io/badge/-Go-blue?style=plastic&logo=Go)
-  ![AWS](https://img.shields.io/badge/-AWS-black?style=plastic&logo=Amazon-AWS)
   ![Docker](https://img.shields.io/badge/-Docker-white?style=plastic&logo=Docker)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=MySQL)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   ![Vue.js](https://img.shields.io/badge/-Vus.js-4FC08D?style=plastic&logo=Vue.js)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white)
   ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=plastic&logo=Serverless&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-black?style=plastic&logo=Amazon-AWS)
 
 - 👯 I’m looking to collaborate on Golang projects
 
