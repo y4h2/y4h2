@@ -42,6 +42,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Golang projects
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/y4h2?ext=contest)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y4h2)
+ -->
+
 ### My recent blog
 
 - [MySQL Read/Write Splitting](https://www.yuque.com/y4h2/write/necaa7)
