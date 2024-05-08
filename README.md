@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-Senior Software Engineer | DevOps
+Senior Software Engineer | Senior DevOps Engineer
 
 
 <!--
