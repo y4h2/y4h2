@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 -->
 - 🚀 I use daily:
   ![Go](https://img.shields.io/badge/-Go-blue?style=plastic&logo=Go)
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) 
   ![Docker](https://img.shields.io/badge/-Docker-white?style=plastic&logo=Docker)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=MySQL)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 - 💻 I also use:
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) 
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql) 
   ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=plastic&logo=Amazon-DynamoDB) 
   ![Vue.js](https://img.shields.io/badge/-Vus.js-4FC08D?style=plastic&logo=Vue.js)
