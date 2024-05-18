@@ -1,4 +1,6 @@
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-yuhuang-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yu-huang-toronto/)](https://www.linkedin.com/in/yu-huang-toronto/)
+-->
 [![Blog Badge](https://img.shields.io/badge/-y4h2_blog-blue?style=plastic&logo=blog&logoColor=white&link=https://www.yuque.com/y4h2/write)](https://www.yuque.com/y4h2/write)
 
 ### Hi there 👋
