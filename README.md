@@ -4,7 +4,7 @@
 [![Blog Badge](https://img.shields.io/badge/-y4h2_blog-blue?style=plastic&logo=blog&logoColor=white&link=https://www.yuque.com/y4h2/write)](https://www.yuque.com/y4h2/write)
 
 ### Hi there 👋
-<a href="https://stackoverflow.com/users/4306662/yu-huang"><img src="https://stackoverflow.com/users/flair/4306662.png" width="208" height="58" alt="profile for Yu Huang at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Yu Huang at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/4306662/y4h2"><img src="https://stackoverflow.com/users/flair/4306662.png" width="208" height="58" alt="profile for Yu Huang at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for y4h2 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 Senior Software Engineer | Senior DevOps Engineer
 
